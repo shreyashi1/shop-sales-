@@ -1,4 +1,4 @@
-# shop-sales-Analysis
+# Shop-Sales-Analysis
 # Introduction
 The Shop Sales Report project focuses on analyzing retail sales data to provide actionable insights that drive better business outcomes. By integrating data from multiple sources, performing ETL operations, and building a robust data model, the project delivers a clear, interactive report that highlights key sales trends, performance metrics, and customer behavior patterns.
 
